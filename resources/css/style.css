@@ -1,0 +1,31 @@
+body{
+  font-family: Verdana;
+  text-align: center;
+  background-color: black;
+  font-weight: normal;
+}
+
+.mainheading{
+  font-size: 50px;
+  color: white;
+}
+
+.download{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.subheading{
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p{
+  font-size: 21px;
+  color: gray;
+}
+
+.copyright{
+  text-align: right;
+}
